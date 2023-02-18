@@ -22,3 +22,13 @@
 #### <a href="https://github.com/FortyNorthSecurity/EyeWitness">EyeWitness</a>
 ``./EyeWitness.py -f target_subdomains.txt``
 
+### important tools
+#### <a href="https://www.google.com">google</a>
+
+#### <a href="https://portswigger.net/burp/communitydownload">burpSuite community</a> 
+
+#### <a href="https://github.com/ffuf/ffuf">ffuf</a>
+
+#### <a href="https://github.com/assetnote/kiterunner">kiterunner</a>
+
+#### <a href="https://github.com/daffainfo/AllAboutBugBounty">payloads & bypasses</a>
