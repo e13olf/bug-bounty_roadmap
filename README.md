@@ -1,6 +1,6 @@
 #### <a href="https://github.com/OWASP/Amass">amass</a>
 ``amass enum -brute -passive -d target.com -o amass-passive_target.txt -config ~/.config/amass/config.ini``
-> configure the ini file at the least with free apis[GitHub,IPinfo,Censys,SecurityTrails]
+> configure the ini file at the least with free apis[GitHub, IPinfo, Censys, SecurityTrails]
 
 
 #### <a href="https://github.com/resyncgg/ripgen">ripgen</a>
