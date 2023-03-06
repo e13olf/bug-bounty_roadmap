@@ -17,7 +17,12 @@
 
 
 #### <a href="https://github.com/projectdiscovery/httpx">httpx</a>
-``httpx --list target_purednsed.txt -silent -probe > target_subdomains.txt``
+``httpx --list target_purednsed.txt -silent -probe > httpxed_subdomains.txt``
+
+#### <a href="https://github.com/tomnomnom/assetfinder">assetfinder</a>
+``assetfinder -subs-only datacamp.com | httpx -silent -probe >> httpxed_subdomains.txt``
+
+``sort -u httpxed_subdomains.txt > target_subdomains.txt``
 
 
 #### <a href="https://github.com/FortyNorthSecurity/EyeWitness">EyeWitness</a>
@@ -33,3 +38,5 @@
 #### <a href="https://github.com/assetnote/kiterunner">kiterunner</a>
 
 #### <a href="https://github.com/daffainfo/AllAboutBugBounty">payloads & bypasses</a>
+
+#### <a href="https://a.co/d/fECJopO">The Web Application Hacker's Handbook</a>
